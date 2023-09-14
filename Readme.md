@@ -27,8 +27,7 @@ Entry screen
 
 
 Here's a demo video: 
-
-Uploading Kennect - Google Chrome 2023-09-14 15-31-45.mp4…
+(https://drive.google.com/file/d/1x64xDjAL4l6OshhsEtmu25nQNY3aXfWo/view?usp=sharing)
 
 Docker images
 ![image](https://github.com/TanyaGupta1901/kennect/assets/63922082/1855d580-3069-4181-9985-1dd3b853bfa4)
