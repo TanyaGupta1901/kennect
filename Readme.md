@@ -45,5 +45,3 @@ DB data
 -A user can search for anything the post, or the comment in which the content is present that post is rendered.
 
 
-
-To run the docker image cd into the folder and run docker-compose up
