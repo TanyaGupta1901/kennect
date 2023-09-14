@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 5500
 
 # Start server
-CMD ["nodemon"]
+CMD ["node", "index.js"]

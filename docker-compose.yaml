@@ -11,7 +11,7 @@ services:
     networks:
       - kennect-network
 
-  frontend:
+  client:
     container_name: kennect-client
     build: ./client
     ports:
