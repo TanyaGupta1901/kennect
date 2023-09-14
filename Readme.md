@@ -1,3 +1,8 @@
+This a app that supports users to make posts and comments to them. 
+The backaend is built using: Node.js and Express.js.
+Database: MongoDb
+Frontend: React.js
+
 In order to run the application locally:
 
 1. Clone the application with the command
@@ -21,7 +26,12 @@ Entry screen
 
 Here's a demo video: 
 
+
 Uploading Kennect - Google Chrome 2023-09-14 15-31-45.mp4…
+
+
+Docker images
+![image](https://github.com/TanyaGupta1901/kennect/assets/63922082/1855d580-3069-4181-9985-1dd3b853bfa4)
 
 
 
@@ -30,6 +40,10 @@ DB data
 ![image](https://github.com/TanyaGupta1901/kennect/assets/63922082/315dac72-c578-4f41-b0ba-f4cffe851d01)
 ![image](https://github.com/TanyaGupta1901/kennect/assets/63922082/2a12f9f4-f0c7-4baf-ba55-0d7d1cdc075b)
 
+-A new user is created when a new username is entered, otherwise xisting is logged in.
+-A user schema is designed to store the references to the posts created by the user.
+-A post schema stores reference to all its comments.
+-A user can search for anything the post, or the comment in which the content is present that post is rendered.
 
 
 
