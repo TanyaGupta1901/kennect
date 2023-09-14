@@ -28,7 +28,7 @@ Entry screen
 
 Here's a demo video: 
 (https://drive.google.com/file/d/1x64xDjAL4l6OshhsEtmu25nQNY3aXfWo/view?usp=sharing)
-
+<video src="/assets/demo.mp4" controls title="Title"></video>
 Docker images
 ![image](https://github.com/TanyaGupta1901/kennect/assets/63922082/1855d580-3069-4181-9985-1dd3b853bfa4)
 

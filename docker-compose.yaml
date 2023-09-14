@@ -7,7 +7,7 @@ services:
     ports:
       - "5500:5500"
     depends_on:
-      - mongo
+      - mongodb
     networks:
       - kennect-network
 
